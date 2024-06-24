@@ -8,5 +8,6 @@
 
 #include "src/fs.c"
 #include "src/array.c"
+#include "src/str.c"
 
 #endif // CCONSTRUCT_H
